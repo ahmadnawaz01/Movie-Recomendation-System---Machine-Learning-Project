@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-### 🌐 Live Web App: [👉 Click Here to Try the Live Demo! 👈][(INSERT_YOUR_STREAMLIT_CLOUD_LINK_HERE)](https://movie-recomendation-system---machine-learning-project-3shsnryt.streamlit.app/)
+### 🌐 Live Web App: (https://movie-recomendation-system---machine-learning-project-3shsnryt.streamlit.app/)
 
 A sleek, minimal, and aesthetic Content-Based Movie Recommendation System built using Machine Learning and Python. The application analyzes movie metadata—including genres, keywords, cast, crew, and overviews—to instantly recommend 5 similar movies. It features a clean, poster-first user interface that fetches dynamic artwork directly from the official TMDB API in real-time.
 
